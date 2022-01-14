@@ -5,9 +5,9 @@
 
 In a nutshell, Collection framework provides utility classes and interfaces that are readymade implementation of various data structures and algorithms. Whereas, List interface implementation classes stores elements in ordered fashion.
 
-In this example, I have tried to utilise capabilities and functions provided by ArrayList class in the Collection framework. This is a plain old Core Java application without any database, threading or file handling functionalities; intended to keep foucs purely on Collection framework.
+In this example, I have tried to utilise capabilities and functions provided by ArrayList class in the Collection framework. Here I have considered a imaginary Customer management system with features such as register, sort and unsubscribe customers. This is a plain old Core Java application without any database, threading or file handling capabilities; intended to keep focus purely on Collection framework.
 
-In order to execute the application, run MainTester class from com.core.tester package. Upon program execution, user will be asked to select approprate option from the list of Menus to perform following operations:
+In order to execute the application, run MainTester class from com.core.tester package. Upon program execution, user will be asked to select appropriate option from the list of Menus to perform following operations:
 |    |                                   | List class method used                             |
 |----|-----------------------------------|----------------------------------------------------|
 | 1) | Register new customer             | (ArrayList.add(Object))                            |
