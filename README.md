@@ -22,7 +22,7 @@ In order to execute the application, run MainTester class from com.core.tester p
 ```Output
 ### MENU ### 
 1.Register new customer 	2.Unsubscibe existing 
-3.Update password 			4.Display details 
+3.Update password 		4.Display details 
 5.Sort(On Email) 			6.Sort(on Reg.Amount) 
 7.Display all customers 	8.Exit
 Enter your choice: 
@@ -42,7 +42,7 @@ n
 ==================================
 ### MENU ### 
 1.Register new customer 	2.Unsubscibe existing 
-3.Update password 			4.Display details 
+3.Update password 		4.Display details 
 5.Sort(On Email) 			6.Sort(on Reg.Amount) 
 7.Display all customers 	8.Exit
 Enter your choice: 
