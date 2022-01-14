@@ -21,10 +21,10 @@ In order to execute the application, run MainTester class from com.core.tester p
 <b>Output:</b>
 ```Output
 ### MENU ### 
-1.Register new customer 	2.Unsubscibe existing 
-3.Update password 		4.Display details 
-5.Sort(On Email) 			6.Sort(on Reg.Amount) 
-7.Display all customers 	8.Exit
+1.Register new customer       2.Unsubscibe existing 
+3.Update password             4.Display details 
+5.Sort(On Email)              6.Sort(on Reg.Amount) 
+7.Display all customers       8.Exit
 Enter your choice: 
 1
 Do you want to add more customer: (y/n)
@@ -41,10 +41,10 @@ Do you want to add more customer: (y/n)
 n
 ==================================
 ### MENU ### 
-1.Register new customer 	2.Unsubscibe existing 
-3.Update password 		4.Display details 
-5.Sort(On Email) 			6.Sort(on Reg.Amount) 
-7.Display all customers 	8.Exit
+1.Register new customer       2.Unsubscibe existing 
+3.Update password             4.Display details 
+5.Sort(On Email)              6.Sort(on Reg.Amount) 
+7.Display all customers       8.Exit
 Enter your choice: 
 2
 Enter Email Id to unsubscribe: 
@@ -53,10 +53,10 @@ Customer details erased successfully,
 details: Customer [custId=0, name=test, email=test@gmail, password=123456, birthdate=09/09/1999, regAmount=15000.0]
 ==================================
 ### MENU ### 
-1.Register new customer 	2.Unsubscibe existing 
-3.Update password 			4.Display details 
-5.Sort(On Email) 			6.Sort(on Reg.Amount) 
-7.Display all customers 	8.Exit
+1.Register new customer       2.Unsubscibe existing 
+3.Update password             4.Display details 
+5.Sort(On Email)              6.Sort(on Reg.Amount) 
+7.Display all customers       8.Exit
 Enter your choice: 
 5
 
