@@ -20,7 +20,6 @@ In order to execute the application, run MainTester class from com.core.tester p
 
 <b>Output:</b>
 ```Output
-==================================
 ### MENU ### 
 1.Register new customer 	2.Unsubscibe existing 
 3.Update password 			4.Display details 
